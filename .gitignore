@@ -5,3 +5,4 @@ lib/*
 .idea/
 *.d.ts
 *.js
+.npmrc

@@ -3,7 +3,7 @@
   "version": "1.1.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paynl/nodejs-sdk.git"
+    "url": "https://github.com/Promatask/nodejs-sdk"
   },
   "description": "Manage transactions in your Pay.nl account with nodejs",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andy Pieters <andy@pay.nl>",
+  "author": "Tim Van Den Bosch <tim@promatask.com>",
   "license": "MIT",
   "dependencies": {
     "dateformat": "^3.0.3",
