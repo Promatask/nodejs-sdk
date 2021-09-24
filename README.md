@@ -1,3 +1,9 @@
+# UNDER DEVELOPMENT
+We recommend you using the paynl-sdk instead of this one.
+This holds possible breaking changes.
+
+!!!Use at your own risk!!!
+
 # PAY.nl NodeJS SDK
 SDK for PAY.nl allowing you to manage your PAY.nl transactions in nodeJS
 
